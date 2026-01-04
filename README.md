@@ -31,16 +31,20 @@ Atua como QA médico geral, usando um contexto padrão interno
   1. Abra o notebook main.ipynb no Google Colab
   2. Altere o modo de execução de CPU para GPU
   3. Crie o arquivo ENV no seu drive no caminho: "/content/drive/MyDrive/token-hf/env"
-    - HF_TOKEN = Token para acesso ao HuggingFace
-    - HF_USER_REPO = Nome do usuário do HugginFace
+
+    - Chaves que devem existir no arquivo ENV:
+     HF_TOKEN = Token para acesso ao HuggingFace
+     HF_USER_REPO = Nome do usuário do HugginFace
   4. Execute o notebook
 
 ## Executando o notebook medical_assistant.ipynb
   1. Abra o notebook main.ipynb no Google Colab
   2. Altere/Verifique o modo de execução de CPU para GPU
   3. Crie/Verifique o arquivo ENV no seu drive no caminho: "/content/drive/MyDrive/token-hf/env"
-    - HF_TOKEN = Token para acesso ao HuggingFace
-    - HF_USER_REPO = Nome do usuário do HugginFace
+
+    - Chaves que devem existir no arquivo ENV:
+     HF_TOKEN = Token para acesso ao HuggingFace    
+     HF_USER_REPO = Nome do usuário do HugginFace
   4. Execute o notebook
 
 
