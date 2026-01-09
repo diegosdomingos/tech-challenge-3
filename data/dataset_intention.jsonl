@@ -1,0 +1,50 @@
+{"text":"consultar prontuário do paciente Ana","label":"PRONTUARIO"}
+{"text":"consultar prontuário do paciente Ana Paula Souza","label":"PRONTUARIO"}
+{"text":"ver prontuário do paciente João","label":"PRONTUARIO"}
+{"text":"acessar prontuário médico do paciente Carlos","label":"PRONTUARIO"}
+{"text":"buscar prontuário do paciente Maria","label":"PRONTUARIO"}
+{"text":"consultar histórico do paciente João","label":"PRONTUARIO"}
+{"text":"ver histórico médico do paciente Ana","label":"PRONTUARIO"}
+{"text":"acessar dados do paciente Beatriz","label":"PRONTUARIO"}
+{"text":"mostrar dados clínicos do paciente Carlos","label":"PRONTUARIO"}
+{"text":"consultar dados do paciente Maria Silva","label":"PRONTUARIO"}
+{"text":"ver informações do prontuário do paciente João Pedro","label":"PRONTUARIO"}
+{"text":"acessar histórico do paciente Ana Paula","label":"PRONTUARIO"}
+{"text":"buscar dados médicos do paciente Carlos Alberto","label":"PRONTUARIO"}
+{"text":"consultar prontuário médico de João da Silva","label":"PRONTUARIO"}
+{"text":"ver prontuário do paciente Beatriz Costa","label":"PRONTUARIO"}
+{"text":"consultar dados do prontuário do paciente Ana","label":"PRONTUARIO"}
+{"text":"mostrar histórico do paciente Maria","label":"PRONTUARIO"}
+{"text":"acessar prontuário do paciente Pedro","label":"PRONTUARIO"}
+{"text":"ver dados do paciente Lucas","label":"PRONTUARIO"}
+{"text":"consultar histórico clínico do paciente Rafael","label":"PRONTUARIO"}
+{"text":"a vacina da gripe é eficaz?","label":"QA"}
+{"text":"a vacina da gripe é 100% eficaz?","label":"QA"}
+{"text":"qual a eficácia da vacina da gripe?","label":"QA"}
+{"text":"a vacina da gripe protege totalmente?","label":"QA"}
+{"text":"gostaria de saber se a vacina da gripe é eficaz","label":"QA"}
+{"text":"o que dizem os estudos sobre a vacina da gripe?","label":"QA"}
+{"text":"qual a eficácia da vacina contra covid-19?","label":"QA"}
+{"text":"como funciona a vacina contra covid-19?","label":"QA"}
+{"text":"existem evidências científicas sobre vacinas?","label":"QA"}
+{"text":"o que a ciência diz sobre imunização?","label":"QA"}
+{"text":"quais estudos falam sobre vacinação?","label":"QA"}
+{"text":"vacina da gripe funciona mesmo?","label":"QA"}
+{"text":"a vacina da gripe reduz casos graves?","label":"QA"}
+{"text":"qual a taxa de proteção da vacina da gripe?","label":"QA"}
+{"text":"vacinas são eficazes segundo estudos?","label":"QA"}
+{"text":"qual a relação entre vacinação e imunidade?","label":"QA"}
+{"text":"a vacina da gripe é recomendada anualmente?","label":"QA"}
+{"text":"o que dizem as evidências sobre vacina da gripe?","label":"QA"}
+{"text":"vacina da gripe tem comprovação científica?","label":"QA"}
+{"text":"estudos indicam eficácia da vacina da gripe?","label":"QA"}
+{"text":"me passe uma receita","label":"INDEVIDA"}
+{"text":"pode me prescrever um remédio?","label":"INDEVIDA"}
+{"text":"qual dose de dipirona devo tomar?","label":"INDEVIDA"}
+{"text":"qual medicamento devo usar para gripe?","label":"INDEVIDA"}
+{"text":"me indique um remédio para febre","label":"INDEVIDA"}
+{"text":"qual tratamento devo seguir para gripe?","label":"INDEVIDA"}
+{"text":"posso tomar antibiótico para gripe?","label":"INDEVIDA"}
+{"text":"me prescreva algo para dor","label":"INDEVIDA"}
+{"text":"qual remédio é melhor para gripe?","label":"INDEVIDA"}
+{"text":"o médico pode me receitar algo?","label":"INDEVIDA"}
