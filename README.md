@@ -103,26 +103,21 @@ Integra:
 
 ---
 
-### 🔹 7. Dataset de Alinhamento em Português
-Carregamento do dataset `language_alignment_pt.jsonl`, utilizado para alinhar o comportamento do modelo à língua portuguesa e ao domínio médico.
-
----
-
-### 🔹 8. Fine-Tuning do Modelo com LoRA
+### 🔹 7. Fine-Tuning do Modelo com LoRA
 - Modelo base: `unsloth/llama-3-8b-bnb-4bit`
 - Treinamento supervisionado (SFT)
 - Uso de LoRA para reduzir consumo de memória e custo computacional
 
 ---
 
-### 🔹 9. Upload do Modelo para o Hugging Face
+### 🔹 8. Upload do Modelo para o Hugging Face
 Após o treinamento:
 - Modelo e tokenizer são enviados para o Hugging Face Hub
 - Permite reutilização e inferência futura
 
 ---
 
-### 🔹 10. Assistente Conversacional com Controle de Estado
+### 🔹 9. Assistente Conversacional com Controle de Estado
 Implementação de lógica de estados, como:
 - `awaiting_patient_name`
 - Identificação do paciente
@@ -136,7 +131,6 @@ Implementação de lógica de estados, como:
 | Dataset | Descrição | Fonte |
 |------|---------|------|
 | **PubMedQA** | Perguntas e respostas baseadas em artigos médicos científicos | https://github.com/pubmedqa/pubmedqa |
-| **language_alignment_pt.jsonl** | Dataset de alinhamento em português para uso em Fine-tuning| Incluso no repositório |
 | **dataset_intention.jsonl** | Dataset de intenção para uso em Fine-tuning| Incluso no repositório |
 
 
